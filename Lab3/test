@@ -1,1 +1,15 @@
-A
+Zajęcia 3 18.03.2024 
+
+Zadanie 1 
+
+Importuj notatnik Ćwiczenia 3.dbc/ipynb i wykonaj opisane zadania 
+
+Podczas wykonywania zadań sprawdź plan wykonania `explain()` 
+
+Zadanie 2 
+
+Przejdź przez Spark UI i opisz w kilku zdaniach co można znaleźć w każdym z elementów Spark UI. 
+
+Zadanie 3 
+
+Do jednej z Dataframe dołóż transformacje groupBy i porównaj, jak wygląda plan wykonania. 
