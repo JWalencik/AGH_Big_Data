@@ -1,0 +1,18 @@
+Zajęcia 5
+
+Retro
+https://docs.google.com/forms/d/e/1FAIpQLSeDRrPHSMFpIX_XUHeVcnJa3p-dq0JQjz7L8V8vw8_AsNRgww/viewform?usp=sf_link
+
+
+Zadanie 1
+Pobierz notatniki Joins.dbc, SMJ.dbc i Generator.dbc
+Cel zadania: Wykonanie różnych typów jonów i sprawdzenie jaki to ma wpływ na wyniki zapytania. 
+Wykonaj połączenia w notatniku Joins.dbc
+
+Dla tych jonów porównaj inner i left and right outer, Left Semi Join, Left Anti Join join 
+za każdym razem sprawdź .explain i zobacz jak Spark wykonuje połączenia
+
+Zadanie 2
+Cel zadania: usuwanie zduplikowanych kolumn
+Użyj Generatora i stwórz dwie duże tabele po 1 milion wierszy i wykonaj dwa typy joinów, inner oraz left. 
+Połącz tabele po tych samych kolumnach i użyj jednej metody z wykładów na usunięcie duplikatów. 
