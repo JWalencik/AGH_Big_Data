@@ -1,0 +1,13 @@
+Zajęcia 6
+
+Zadanie 1
+Cel zadania – przygotować się do interview, 
+Notatka z krótkim opisem najważniejszych narzędzi analitycznych/Big Data/AI. Móc opisać wybrane przez siebie zagadnienie/narzędzia analityczne w wybranej chmurze Azure/AWS/GCP.  
+Przykład
+1.	Robisz PoC na wykrycie anomalii z linii produkcyjnej (jakieś IoT). Jakich narzędzi użyjesz np. w Azure. Jak będzie wyglądało PoC.
+2.	Zaproponuj architekturę Big Data dla Rockstar Games przetwarzanie danych w celu wykrycia i zapobiegania błędom w grze, satysfakcji użytkowników.  Jakie narzędzia, gdzie będzie compute ect.
+Podpowiedź - przejrzyj co jest wymagane do certyfikacji np. DP-203, i DP-100, AI-102
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
+https://learn.microsoft.com/pl-pl/credentials/certifications/resources/study-guides/ai-102
+https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification
