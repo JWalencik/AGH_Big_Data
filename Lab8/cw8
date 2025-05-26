@@ -1,0 +1,17 @@
+Zajęcia 8 
+
+Zadanie 1 
+
+Flatten json - wczytaj 10 wybranych atrybutów z pliku brzydki.json (kolumna features). 
+
+Zadanie 2 
+
+Stwórz diagram draw.io pokazujący przykładowy proces E dla wybranego przez siebie przykładu do interview z Lab nr 5.  
+
+Podczas projektowania pokarz że zastosowałeś dobre praktyki z wykładów. (Wymyśl kilka transformacji, jakiś plik konfiguracyjny) 
+
+Zadanie 3 
+
+Poka Yoke 
+
+Napisz 5 metody, które mogą być użyte w Pipeline tak aby tyły odporne na błędy użytkownika, jak najbardziej „produkcyjnie”. Możesz użyć tego co już stworzyłeś/laś i usprawnij rozwiązanie na bardziej odporne na błędy biorąc pod uwagę dobre praktyki. 
