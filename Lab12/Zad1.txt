@@ -1,0 +1,13 @@
+Spark UI
+
+1.Jobs - pokazuje listę zadań Spark wraz ze statusem, czasem trwania i ilością etapów.
+
+2.Stages - szczegółowe informacje o etapach: ile było tasków, czas trwania i jakie taski trwały najdłużej.
+
+3.Storage - pokazuje, zcache’owane dane. Widać, ile partycji i ile miejsca zajmują.
+
+4.Executors - info o maszynach. Widać użycie CPU, pamięci, liczbie tasków i przetworzonych danych dla każdego executora
+
+5.SQL/DataFrame - plan wykonania zapytań Spark SQL, czas, plan działania, joiny, shuffle itd.
+
+6.Podsumowanie - w SQL/DataFrame w Physical Plan są Exchange, Repartition, Join. W Stages i Tasks są metryki. W Storage widać dane i podział na partycje
