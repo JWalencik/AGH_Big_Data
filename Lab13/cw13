@@ -1,0 +1,39 @@
+Pobierz dane for formacie GeoJson z wybranego źródła 
+
+ 
+
+Źródło 1 
+
+https://www.data.gov.uk/ 
+
+https://environment.data.gov.uk/catchment-planning/v/c3-plan 
+
+Źródło 2 
+
+https://geojson.io/#map=2/0/20 
+
+Źródło 3 
+
+dbfs:/databricks-datasets/nyctaxi/ 
+
+ 
+
+Zadanie 1 
+
+Stwórz notatnik w którym użyjesz poniższych funkcji: 
+
+Policz odległość pomiędzy punktami, sprawdź czy dany punkt geograficzny znajduje się w poligonie. Jeśli dane nie mają poligonu to możesz go stworzyć.  
+
+Jeżeli dane z wybranego źródła nie mają wystarczająco danych żeby wykonać wszystkie funkcje, użyj innego źródła. 
+
+Użyj jednej z wybranych bibliotek GeoMesa lub Mosaic lub Sedona. 
+
+ST_Area 
+
+ST_Distance 
+
+ST_Contains 
+
+ST_Intersects 
+
+ST_Within 
