@@ -1,0 +1,53 @@
+Diagram that shows the medallion architecture and data flow., ObrazZajęcia 14 
+
+ 
+
+Zadanie 1 
+Jesteś architektem i pomagasz klientowi zaprojektować Lakehouse 
+
+Krok pierwszy wycena – szacunkowe koszty projektu na rok. 
+
+Obecna ilość danych historycznych 10TB 
+
+Przyrost miesięczny 200GB 
+
+ 
+
+Azure cost calculator  
+
+Lista usług potrzebnych do postawienia lakehouse w Azure, wylicz roczne koszty platformy. Eksportuj do pliku Excel.  
+
+ 
+
+Storage Account 
+
+Databricks 
+
+Key Vault 
+
+Data Factory 
+
+SQL Server 
+
+ 
+
+Zadanie 2 
+Wybór technologii - składowanie danych w Databricks 
+
+Porównanie technologii DeltaLake i Iceberg  
+
+Podpowiedz klientowi w jakich scenariuszach każda z technologii będzie bardziej optymalna.  
+
+ 
+
+Zadanie 3 
+
+What is the medallion lakehouse architecture? - Azure Databricks | Microsoft Learn 
+
+ 
+
+Napisz krytykę architektury medalionu, może nie trzeba tworzyć medalionu, jakie ma błędy, wady ….  
+
+ 
+
+20 punktów i krótki opis do każdego. 
